@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_agregar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Agregar" />
+
+    <item
+        android:id="@+id/navigation_actualizar"
+        android:icon="@android:drawable/ic_popup_sync"
+        android:title="Actualizar" />
+
+    <item
+        android:id="@+id/navigation_eliminar"
+        android:icon="@android:drawable/ic_delete"
+        android:title="Eliinar" />
+
+</menu>
